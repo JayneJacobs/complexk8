@@ -9,7 +9,7 @@ Nothing can address a pod directly. Internal addresses are used between the Mast
 External sources must use port numbers between 30000-32767
 
 
-![ExternalPorts](./docs/ExternalPortlimit.png)
+![ExternalPorts](https://github.com/JayneJacobs/complexk8/blob/master/k8s/docs/ExternalPortLimit.png)
 
 Colocating configs
 
