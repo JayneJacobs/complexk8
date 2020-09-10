@@ -5,7 +5,7 @@
 
 Nothing can address a pod directly. Internal addresses are used between the Master load balancer and the internal network. 
 
-![Notes](Nodes.png)
+![Notes](./docs/Nodes.png)
 External sources must use port numbers between 30000-32767
 
 
