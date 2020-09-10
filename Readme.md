@@ -73,7 +73,7 @@ https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definition_para
 
 ## K8s
 
-[Link to deployments](docs/K8s/Readme.md)
+[Link to deployments](./docs/K8sdocs/Readme.md)
 
 ### logs
 kubectl get pods 
