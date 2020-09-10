@@ -9,7 +9,7 @@ Nothing can address a pod directly. Internal addresses are used between the Mast
 External sources must use port numbers between 30000-32767
 
 
-![ExternalPorts](docs/ExternalPortlimit.png)
+![ExternalPorts](./docs/ExternalPortlimit.png)
 
 Colocating configs
 
@@ -27,7 +27,7 @@ NAME                               STATUS    VOLUME   CAPACITY   ACCESS MODES   
 database-persistent-volume-claim   Pending                                      standard       6m17s
 ```
 
-![Cant Update pod](docs/CantUpdate.png)
+![Cant Update pod](./docs/CantUpdate.png)
 
 
 kubectl delete -f client-pod.yaml
